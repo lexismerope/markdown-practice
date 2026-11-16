@@ -63,7 +63,7 @@ if __name__ == "__main__":
     tally_daily_scrolls()
 ```
 
-### 📖 Sample Guild Ledger
+Possible outline for the book
 
 | Date | Chapter / Scroll | Words Written | Daily Target | Quest Status |
 | :--- | :--- | :---: | :---: | :---: |
