@@ -62,3 +62,11 @@ def tally_daily_scrolls():
 if __name__ == "__main__":
     tally_daily_scrolls()
 ```
+
+### 📖 Sample Guild Ledger
+
+| Date | Chapter / Scroll | Words Written | Daily Target | Quest Status |
+| :--- | :--- | :---: | :---: | :---: |
+| `2026-11-14` | *Ch. 1 — The Whispering Fen* | 640 | 500 | ✅ Quest Complete |
+| `2026-11-15` | *Ch. 2 — Siege of Cinderhold* | 512 | 500 | ✅ Quest Complete |
+| `2026-11-16` | *Ch. 3 — The Oathbreaker's Map* | 310 | 500 | 🕯️ 190 words left |
