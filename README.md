@@ -4,8 +4,8 @@
 
 
 ## Back-cover blurb
-    When dark‑robed students from a Voidwright Institute  burn her village and abduct her mother, a daughter of a nonbinary sea deity is forced into the divine world, where she must master her rising powers, uncover the truth of her missing parent, and confront a prophecy that declares she will either save the world or let it be remade in darkness.
-
+- When dark‑robed students from a Voidwright Institute  burn her village and abduct her mother, a daughter of a nonbinary sea deity is forced into the divine world, where she must master her rising powers, uncover the truth of her missing parent, and confront a prophecy that declares she will either save the world or let it be remade in darkness.
+  
 ## Character information
 
 ### Main characters
